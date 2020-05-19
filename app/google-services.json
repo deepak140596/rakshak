@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "964451582336",
+    "firebase_url": "https://rakshak-eab70.firebaseio.com",
+    "project_id": "rakshak-eab70",
+    "storage_bucket": "rakshak-eab70.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964451582336:android:c047424286062c954dc165",
+        "android_client_info": {
+          "package_name": "com.dpk.rakshak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964451582336-rir0v6v9cgsgllosvnbpsjo89g27o7ou.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dpk.rakshak",
+            "certificate_hash": "6a519353e3ecb97c0d91b874944f03ac36f54729"
+          }
+        },
+        {
+          "client_id": "964451582336-cdino2f93fpk3egl95b64pdvo8q1tn26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNAVfzMFl4G8y0m_MF2HKnEON47BabW3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964451582336-cdino2f93fpk3egl95b64pdvo8q1tn26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
